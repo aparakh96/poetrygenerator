@@ -1,0 +1,19 @@
+body {
+    color: black;
+    background: url(Anya%20Final%20Animation.gif);
+    font-family: sans-serif;
+}
+
+p {
+    font-size: 200pt;
+    text-align: center;
+    opacity: 0;
+    
+}
+
+p:hover {
+    font-size: 200pt;
+    background-attachment: fixed; 
+    color: darkred;
+    opacity: 0.6;
+}

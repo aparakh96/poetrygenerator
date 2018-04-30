@@ -1,0 +1,13 @@
+body {
+    background: url(weave.gif);
+}
+
+p {
+    font-size: 120pt;
+    color: aliceblue;
+    text-align: center;
+}
+
+p:hover {
+    opacity: 0.4;
+}

@@ -1,0 +1,27 @@
+body {
+    color: black;
+    background: url(Cloner%20.gif);
+    font-family: monospace;
+}
+body: hover {
+    color: darkgray;
+}
+
+
+p {
+    font-size: 24pt;
+    text-align: center;
+    
+}
+
+p:hover {
+    font-size: 36pt; 
+    color: peachpuff;
+    opacity: 0.5;
+}
+
+.memory:hover {
+    font-size: 100pt; 
+    color: peachpuff;
+    opacity: 0.6;
+}

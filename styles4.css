@@ -1,0 +1,14 @@
+body {
+    background: white;
+}
+
+p {
+    font-size: 120pt;
+    color: black;
+    text-align: center;
+}
+
+p:hover {
+    opacity: 0.4;
+    color: purple;
+}
